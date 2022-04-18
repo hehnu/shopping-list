@@ -1,7 +1,5 @@
-## Final Project
-### Description:
-This will be where you show us all that you have learnt!
-Please align your project with our requirements, which are below:
+## Shopping List Project
+
 
 ### Requirements:
 * Must use 4 Pillars of OOP
