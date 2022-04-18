@@ -1,7 +1,7 @@
-## Shopping List Project
+## Shopping List App
 
 
-### Requirements:
+### Project Requirements:
 * Must use 4 Pillars of OOP
 * Must create and use at least 3 Constructors
 * Must have at least 4 methods
